@@ -30,4 +30,4 @@ email: pzarilla@gmail.com
 superuser: true
 highlight_name: false
 ---
-Patsy is a project manager for a manufacturing company in his hometown. He's
+Patsy is a project manager for a manufacturing company in his hometown. He's currently in the process of changing careers and entering the Data Analytics field
