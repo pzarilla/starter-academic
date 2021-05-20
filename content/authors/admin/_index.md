@@ -5,9 +5,8 @@ avatar_filename: https://i.imgur.com/kzAhtKDb.jpg
 bio: Transitioning from an engineering career and seeking a full-time role in
   the field of data analytics
 interests:
-  - Data Analytics
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Analyst
+  - also Project Manager and a Self-Defense Instructor
 social:
   - icon: linkedin
     icon_pack: fab
