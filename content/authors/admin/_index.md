@@ -18,9 +18,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 education:
   courses:
     - course: Google Data Analytics Professional Certificate
